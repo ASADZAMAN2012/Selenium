@@ -1,3 +1,3 @@
-public class asad
+public class asad3
 {
 	}
